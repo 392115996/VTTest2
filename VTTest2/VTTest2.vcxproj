@@ -164,6 +164,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+    <ClCompile Include="VmxBase.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VmxBase.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
