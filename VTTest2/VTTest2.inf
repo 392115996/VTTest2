@@ -22,9 +22,9 @@ DefaultDestDir = 12
 
 
 [Manufacturer]
-%ManufacturerName%=Standard,NT$ARCH$
+;%ManufacturerName%=Standard,NT$ARCH$
 
-[Standard.NT$ARCH$]
+;[Standard.NT$ARCH$]
 
 
 [Strings]
